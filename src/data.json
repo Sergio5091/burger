@@ -1,27 +1,33 @@
 {
-    "menus":[
-        {
-            "id" : 1,
-            "name" : "Menu KFC",
-            "description" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae soluta maiores adipisci repudiandae dolorum tempore neque error id deleniti magni.",
-            "image" :"/Kfc.jfif",
-            "title" :"KFC"
- 
-        },
-        {
-            "id" : 2,
-            "name" : "Menu Burger King",
-            "description" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae soluta maiores adipisci repudiandae dolorum tempore neque error id deleniti magni.",
-            "image" :"/burgerking.jfif",
-             "title" :"BGK"
- 
-        },
-        {
-            "id" : 3,
-            "name" : "Menu McDo",
-            "description" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae soluta maiores adipisci repudiandae dolorum tempore neque error id deleniti magni.",
-            "image" :"/mcdo.jfif",
-             "title" :"MCDO"
-        }
-    ]
+  "menus": [
+    {
+      "id": 1,
+      "name": "Menu KFC",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae soluta maiores adipisci repudiandae dolorum tempore neque error id deleniti magni.",
+      "image": "/Kfc.jfif",
+      "title": "KFC"
+    },
+    {
+      "id": 2,
+      "name": "Menu Burger King",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae soluta maiores adipisci repudiandae dolorum tempore neque error id deleniti magni.",
+      "image": "/burgerking.jfif",
+      "title": "BGK"
+    },
+    {
+      "id": 3,
+      "name": "Menu McDo",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae soluta maiores adipisci repudiandae dolorum tempore neque error id deleniti magni.",
+      "image": "/mcdo.jfif",
+      "title": "MCDO"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "abc@mail.com",
+      "password": "12345",
+      "name": "Jean"
+    }
+  ]
 }

@@ -14,7 +14,7 @@ function deconnec(){
 
 <template>
 
-    <div class="flex ">
+    <div class="flex justify-center">
         <nav class="flex gap-7 shadow-lg p-5 rounded-b-[50px] justify-center bg-[#f8b8g8]">
             <div class=" p-2 rounded-lg font-bold">
                 <RouterLink to="/myApp/">Home</RouterLink>
